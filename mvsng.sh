@@ -1,7 +1,7 @@
 # This is a simple script that takes Zip folders with Clone Hero related files
 # and puts them in the .clonehero/Songs/ directory with the respective song name.
 
-SONGS_FOLDER='$HOME/.clonehero/Songs/'
+SONGS_FOLDER="$HOME/.clonehero/Songs/"
 
 move_song () {
 
